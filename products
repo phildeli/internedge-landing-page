@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Messaging Templates – InternEdge</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9fafb;
+      color: #111827;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 2.25rem;
+      margin-bottom: 1rem;
+      color: #1f2937;
+    }
+    p {
+      font-size: 1.05rem;
+      color: #374151;
+    }
+    .product {
+      background: #ffffff;
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    }
+    h2 {
+      margin-top: 0;
+      color: #1d4ed8;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 1rem;
+      background-color: #3b82f6;
+      color: white;
+      padding: 0.6rem 1.2rem;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+    }
+    nav {
+      background-color: #e5e7eb;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 1rem;
+      text-decoration: none;
+      color: #1f2937;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="products.html">Templates</a>
+    <a href="mailto:your@email.com">Contact</a>
+  </nav>
+
+  <div class="container">
+    <h1>📁 Professional Messaging Templates</h1>
+    <p>Three plug-and-play template packs to help you write effective emails and DMs to professionals. Whether you're networking, following up, or introducing yourself — these save time and sound polished.</p>
+
+    <div class="product">
+      <h2>📬 Introduction Messages & Elevator Pitches</h2>
+      <p>Perfect for LinkedIn, Slack, email intros, or any time you need to explain who you are in 1–2 sentences. Includes short blurbs, 50-word bios, and DM scripts.</p>
+      <a href="intro-pack.pdf" class="button" target="_blank">Download Intro Pack</a>
+    </div>
+
+    <div class="product">
+      <h2>☕ Coffee Chat Request Templates</h2>
+      <p>Get better replies from cold outreach and warm intros. Email and DM templates for asking professionals for a quick chat — plus subject line ideas and tips.</p>
+      <a href="coffee-chat-pack.pdf" class="button" target="_blank">Download Coffee Chat Pack</a>
+    </div>
+
+    <div class="product">
+      <h2>📩 Post-Coffee Chat Follow-Up Templates</h2>
+      <p>Stay memorable and build real relationships. Thank-you emails, follow-ups with takeaways, and longer-term check-ins — all written to sound natural and sincere.</p>
+      <a href="follow-up-pack.pdf" class="button" target="_blank">Download Follow-Up Pack</a>
+    </div>
+  </div>
+</body>
+</html>
